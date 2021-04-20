@@ -1,5 +1,4 @@
-# todoey_flutter
+# todoey_flutter--
 
-A Flutter TODO application named as TODOEY
-
+A Flutter TODO application.
 
